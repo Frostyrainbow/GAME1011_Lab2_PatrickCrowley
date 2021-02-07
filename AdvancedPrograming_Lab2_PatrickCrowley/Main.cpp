@@ -148,8 +148,6 @@ int main()
 		delete pCharacter;
 		cout << "Deleted Succsefully" << endl;
 	}
-	delete characterArray;
-	delete newWeapon;
 	return 0;
 }
 
